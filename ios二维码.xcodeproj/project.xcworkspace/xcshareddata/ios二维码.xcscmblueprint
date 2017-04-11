@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8922785b-d48d-459c-a490-4ce15187667a++1805" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8922785b-d48d-459c-a490-4ce15187667a++1805" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8F23C6DA-BFD4-4DE9-A224-AE37C9A9837D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8922785b-d48d-459c-a490-4ce15187667a++1805" : "ios%E4%BA%8C%E7%BB%B4%E7%A0%81\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ios二维码",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios二维码.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svn.xh.com\/reader-client-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8922785b-d48d-459c-a490-4ce15187667a++1805"
+    }
+  ]
+}
